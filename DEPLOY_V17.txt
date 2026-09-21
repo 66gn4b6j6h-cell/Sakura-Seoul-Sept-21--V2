@@ -1,0 +1,35 @@
+THE SAKURA & SEOUL JOURNAL — DEPLOY READY V17
+Created: 2026-09-21
+
+THIS IS A COMPLETE DEPLOYMENT PACKAGE.
+Do not merge it with the earlier drop-in ZIP.
+
+Deploy:
+1. Unzip this package.
+2. Upload ALL files to the root of the same GitHub Pages repository.
+3. Replace the old index.html when prompted.
+4. Keep every locked-*.png file beside index.html.
+5. Commit changes.
+6. On iPhone Safari, reload the site. If an old cached version appears, close the tab and reopen the GitHub Pages URL.
+
+V17 includes:
+- Separate Japan homepage
+- NO Hakone
+- Uji-first → Nara Oct 9 working plan
+- Kaneyamaen Oct 12 transfer anchor
+- Harry Potter Oct 17 at 10:00 locked
+- DisneySea Oct 18 locked
+- teamLab Planets Oct 20 08:30–09:00 locked
+- Japan itinerary editor for flexible day parts
+- Japan Safety & Disaster centre with official-source links and emergency calls
+- Weather shortcuts by Japan itinerary location
+- JPY/KRW cash wallets
+- JPY/KRW/CAD/USD expense entry
+- CAD master reporting total while retaining original currency
+- Cash loading does not count as spending
+- Existing food, shopping, hotels, maps, packing and Seoul content retained
+
+NOTE:
+The static GitHub Pages build uses official live-source links for disaster warnings.
+It does not falsely label a generic weather forecast as an official disaster feed.
+Planning FX rates are editable inside Cash Wallet.

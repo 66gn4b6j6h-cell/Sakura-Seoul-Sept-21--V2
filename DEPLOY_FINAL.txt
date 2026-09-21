@@ -1,0 +1,14 @@
+FINAL DEPLOYMENT
+
+1. Download and unzip Sakura_Seoul_Journal_FINAL.zip.
+2. In the ROOT of the existing GitHub Pages repository, upload:
+   - index.html
+   - every locked-*.png file from this package
+3. Replace existing files with the same names.
+4. Do NOT upload the ZIP to the repo.
+5. Do NOT restore any old asset-* files.
+6. Commit directly to main.
+7. GitHub Pages setting stays: main / (root).
+8. Wait for deployment, then reload the normal Pages URL once.
+
+This release is based on the V16 visual baseline. It does not apply the V17 faded/masked Home redesign.

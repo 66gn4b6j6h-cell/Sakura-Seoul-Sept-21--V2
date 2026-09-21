@@ -1,0 +1,15 @@
+V16 — DATA + ROUTING REBUILD
+
+Upload index.html and ALL locked-*.png files together to the ROOT of the GitHub Pages repository.
+
+Changes in V16:
+- Correct Fuji locked artwork (no Seoul image in Japan).
+- Adds locked Packing & Weather Home tile.
+- Adds Packing & Weather pages: Weather, Checklist, By City, Luggage, Essentials.
+- Japan Convenience Stores now has its own module with English explanations for saved drink/product names.
+- Local Guide now contains transport/areas/etiquette/bathrooms/useful info; Language is one section.
+- Japan and Seoul food/shopping routes are country-scoped to prevent cross-country bleed.
+- Shopping retains individual item checkboxes and notes.
+- Traveler Essentials remains a separate trip-wide module.
+
+Do not upload old asset-* files from V14/V15.

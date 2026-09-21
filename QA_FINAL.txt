@@ -1,0 +1,14 @@
+PASS — V16 visual baseline retained
+PASS — No V17 home fade/mask CSS
+PASS — Home city hotspots
+PASS — Logical back navigation
+PASS — Seoul itinerary scoped Oct21-25
+PASS — Seoul hotel second
+PASS — Itinerary completion persists
+PASS — DisneySea Oct18 confirmed
+PASS — teamLab booking retained
+PASS — Food single-select controls
+PASS — Expanded Matcha Map
+PASS — Unified offline maps route
+PASS — Hotel offline map repair
+PASS — No Hakone canonical overnight

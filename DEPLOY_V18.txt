@@ -1,0 +1,43 @@
+THE SAKURA & SEOUL JOURNAL — V18 LOCKED UI
+Created 2026-09-21
+
+This is a COMPLETE deployment package based on V17.
+
+LOCKED HOME
+- Uses the exact approved Option 1 visual from this conversation.
+- Cormorant Garamond-style romantic serif system.
+- Trip Readiness + Traveller Essentials at the top.
+- Japan and Seoul are equal height and use the same typography.
+- No added handwritten/remote phrases.
+- Packing & Weather retained.
+- Home / Journey / Food / Wallet / Ready navigation is built into the locked visual.
+
+JAPAN
+- Restores the approved Japan hub visual rather than the simplified V17 dashboard.
+- Functional hotspots open itinerary, weather, safety, transport, food, shopping,
+  bookings, Japan Cash & Expenses and Useful Info.
+- No Hakone in app itinerary data.
+
+MONEY
+- Travel Wallet is now the master multi-currency system.
+- CAD / JPY / KRW / USD supported.
+- Original currency retained; CAD is reporting currency.
+- Separate JPY and KRW physical cash balances.
+- Cash loading is not spending.
+- Cash expenses reduce the appropriate cash wallet.
+- Japan Cash & Expenses and Korea Cash & Expenses are filtered views of the SAME data.
+- Seoul now has Korea Cash & Expenses.
+
+SEOUL
+- Seoul hub uses the same card geometry / typography system.
+- Includes Korea Cash & Expenses.
+
+DEPLOY
+1. Unzip.
+2. Upload ALL contents directly to the existing GitHub Pages repository root.
+3. Replace the existing index.html and matching assets.
+4. Do not upload the enclosing V18 folder as a subfolder.
+5. Commit.
+6. Open the GitHub Pages URL in a fresh Safari tab after deployment.
+
+Do not combine this with the earlier V3 patch.
